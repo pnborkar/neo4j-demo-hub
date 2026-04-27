@@ -11,8 +11,8 @@ why_it_matters: |
   Nothing downstream changes. The catalog gains dimensions it could not carry
   before.
 partners: ["Databricks"]
-industries: ["Financial Services", "Pharma", "Retail", "Manufacturing"]
-patterns: ["Graph-enriched lakehouse", "Graph algorithms", "GenAI"]
+industries: ["Financial Services"]
+patterns: ["Graph-enriched lakehouse", "Graph Algorithms", "GenAI"]
 companion_tech: ["Databricks", "Delta Lake", "Unity Catalog", "Genie", "Neo4j Aura", "Neo4j GDS"]
 author: "Ryan Knight"
 author_contact: "ryan.knight@neo4j.com"
