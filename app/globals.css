@@ -11,6 +11,14 @@ html {
   scroll-behavior: smooth;
 }
 
+.prose img {
+  max-width: 78%;
+  margin: 1rem auto;
+  display: block;
+  border-radius: 8px;
+  border: 1px solid var(--color-ink-100, #E5E7EB);
+}
+
 body {
   background: #FAFAF7;
   color: #000B19;
