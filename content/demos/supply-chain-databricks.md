@@ -18,8 +18,8 @@ setup_time: "30 min"
 demo_duration: "15 min"
 last_tested: "2026-04-20"
 prereqs:
-  - "Neo4j Aura Free or 5.x local"
-  - "Databricks workspace (Community Edition works)"
+ - "Neo4j Aura Free or 5.x local"
+  - "Databricks workspace (Free or Community Edition)"
   - "Python 3.10+"
 customer_questions:
   - "What's our exposure if a Tier-2 supplier goes down?"
