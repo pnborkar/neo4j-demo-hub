@@ -16,7 +16,7 @@ patterns: ["Graph-enriched lakehouse", "Graph algorithms", "GenAI"]
 companion_tech: ["Databricks", "Delta Lake", "Unity Catalog", "Genie", "Neo4j Aura", "Neo4j GDS"]
 author: "Ryan Knight
 author_contact: "ryan.knight@neo4j.com"
-status: "demo"
+status: "production"
 featured: true
 setup_time: "30 min"
 demo_duration: "20 min"
