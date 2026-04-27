@@ -29,7 +29,7 @@ repo: "https://github.com/pnborkar/supply-chain-optimizer"
 video: ""
 ---
 
-![Supply Chain Optimizer Reference Architecture](/demos/docs/architecture.png)
+![Supply Chain Optimizer Reference Architecture](./docs/architecture.png)
 
 
 ## What this demo proves
