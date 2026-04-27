@@ -28,11 +28,11 @@ const config: Config = {
           green: "#10B981",
         },
       },
-      fontFamily: {
-        sans: ['"Inter"', "system-ui", "sans-serif"],
-        display: ['"Fraunces"', "Georgia", "serif"],
-        mono: ['"JetBrains Mono"', "ui-monospace", "monospace"],
-      },
+    fontFamily: {
+      sans: ['"Geist"', "system-ui", "-apple-system", "sans-serif"],
+      display: ['"Geist"', "system-ui", "-apple-system", "sans-serif"],
+      mono: ['"Geist Mono"', "ui-monospace", "monospace"],
+    },
       maxWidth: {
         content: "72rem",
       },
