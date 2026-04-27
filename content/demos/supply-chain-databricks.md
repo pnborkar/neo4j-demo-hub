@@ -10,7 +10,7 @@ partners: ["Databricks"]
 industries: ["Pharma", "Logistics", "Manufacturing"]
 patterns: ["Supply chain", "Graph algorithms"]
 companion_tech: ["Databricks", "Delta Lake", "Kafka", "MLflow"]
-contributor: "Pramod Borkar"
+author: "Pramod Borkar"
 author_contact: "pramod.borkar@neo4j.com"
 status: "demo"
 featured: true
