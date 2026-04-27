@@ -34,12 +34,16 @@ video: ""
 Databricks is the system of record. Neo4j is the relationship engine. Together
 they answer questions neither can answer alone.
 
+---
+
 ## Demo script
 
 1. Open the Databricks notebook. Show the Bronze → Silver → Gold medallion flow.
 2. Switch to Neo4j Browser. Run the supplier-concentration query.
 3. Pivot back to the Databricks dashboard, now enriched with graph signals.
 4. Close with the "what-if" simulation.
+
+---
 
 ## Talking points
 
