@@ -10,9 +10,9 @@ partners: ["Databricks"]
 industries: ["Pharma", "Logistics", "Manufacturing"]
 patterns: ["Supply chain", "Graph algorithms"]
 companion_tech: ["Databricks", "Delta Lake", "Kafka", "MLflow"]
-author: "Pramod Naidu"
-author_contact: "pramod.naidu@neo4j.com"
-status: "production"
+contributor: "Pramod Borkar"
+author_contact: "pramod.borkar@neo4j.com"
+status: "demo"
 featured: true
 setup_time: "30 min"
 demo_duration: "15 min"
@@ -25,8 +25,8 @@ customer_questions:
   - "What's our exposure if a Tier-2 supplier goes down?"
   - "Show 3-hop dependencies for product Y"
   - "Where are concentration risks across regions?"
-repo: "https://github.com/example/databricks-supply-chain"
-video: "https://loom.com/share/example"
+repo: "https://github.com/pnborkar/supply-chain-optimizer"
+video: ""
 ---
 
 ## What this demo proves
