@@ -14,8 +14,8 @@ partners: ["Databricks"]
 industries: ["Financial Services", "Pharma", "Retail", "Manufacturing"]
 patterns: ["Graph-enriched lakehouse", "Graph algorithms", "GenAI"]
 companion_tech: ["Databricks", "Delta Lake", "Unity Catalog", "Genie", "Neo4j Aura", "Neo4j GDS"]
-author: "Pramod Naidu"
-author_contact: "pramod.naidu@neo4j.com"
+author: "Ryan Knight"
+author_contact: "ryan.knight@neo4j.com"
 status: "production"
 featured: true
 setup_time: "30 min"
