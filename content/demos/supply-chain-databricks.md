@@ -18,7 +18,7 @@ setup_time: "30 min"
 demo_duration: "15 min"
 last_tested: "2026-04-20"
 prereqs:
- - "Neo4j Aura Free or 5.x local"
+  - "Neo4j Aura Free or 5.x local"
   - "Databricks workspace (Free or Community Edition)"
   - "Python 3.10+"
 customer_questions:
@@ -34,16 +34,12 @@ video: ""
 Databricks is the system of record. Neo4j is the relationship engine. Together
 they answer questions neither can answer alone.
 
----
-
 ## Demo script
 
 1. Open the Databricks notebook. Show the Bronze → Silver → Gold medallion flow.
 2. Switch to Neo4j Browser. Run the supplier-concentration query.
 3. Pivot back to the Databricks dashboard, now enriched with graph signals.
 4. Close with the "what-if" simulation.
-
----
 
 ## Talking points
 
