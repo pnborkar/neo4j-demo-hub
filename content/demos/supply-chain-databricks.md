@@ -1,6 +1,6 @@
 ---
 title: "Optimize supply chain with Databricks and Neo4j"
-blurb: "Streaming pipelines land data in Databricks, but multi-hop supplier risk and concentration analysis need graph traversal."
+blurb: "Multi-tier supplier risk and concentration analysis on your existing Databricks stack."
 why_it_matters: |
   Lakehouse and graph as complementary, not competing. Customers running Databricks
   for analytics hit a wall when business asks "what happens if Tier-2 supplier X

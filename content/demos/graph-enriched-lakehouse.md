@@ -1,6 +1,6 @@
 ---
 title: "Graph-Enriched Lakehouse"
-blurb: "Neo4j GDS runs as a silver-to-gold enrichment stage inside a Databricks Lakehouse, writing graph features back as plain Delta columns. The analytics stack stays unchanged."
+blurb: "Detect hidden risk, fraud rings, and customer cohorts that flat tables can't reveal — without changing your Databricks stack or retraining your team."
 why_it_matters: |
   Most Databricks customers don't want a new platform — they want their existing
   one to answer harder questions. This pattern positions Neo4j as a step in the
