@@ -1,0 +1,44 @@
+---
+# Required
+title: "Your demo title here"
+blurb: "One sentence. What does this demo show? Plain language."
+why_it_matters: |
+  Two to three sentences. What problem does this solve? When does an SA pull
+  this demo out? What customer pain does it address?
+partners: ["Databricks"]                    # Databricks | GCP | AWS | Snowflake | Confluent | Azure
+industries: ["Pharma"]                      # Pharma | Financial Services | Retail | Logistics | Manufacturing
+patterns: ["GraphRAG"]                      # GraphRAG | Fraud | Supply chain | Customer 360 | Recommendations | etc.
+companion_tech: ["Delta Lake", "Kafka"]
+author: "Your Name"
+status: "draft"                             # draft | beta | production
+featured: false
+
+# Recommended
+setup_time: "30 min"
+demo_duration: "15 min"
+last_tested: "2026-04-20"
+prereqs:
+  - "Neo4j Aura Free or 5.x local"
+  - "Databricks workspace"
+customer_questions:
+  - "Phrase in the customer's voice."
+  - "What would they actually ask in discovery?"
+repo: "https://github.com/your-org/your-demo"
+video: "https://loom.com/share/..."
+author_contact: "you@neo4j.com"
+---
+
+## What this demo proves
+
+The thesis. One paragraph.
+
+## Demo script
+
+1. Step one with what the SA shows on screen.
+2. Step two — pivot, click, query.
+3. Closing moment.
+
+## Talking points
+
+- Quote-worthy line one.
+- Objection handling: "If customer says X, you say Y."
