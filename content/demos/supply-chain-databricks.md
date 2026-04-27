@@ -29,6 +29,9 @@ repo: "https://github.com/pnborkar/supply-chain-optimizer"
 video: ""
 ---
 
+![Supply Chain Optimizer Reference Architecture](/demos/docsg/architecture.png)
+
+
 ## What this demo proves
 
 Databricks is the system of record. Neo4j is the relationship engine. Together
